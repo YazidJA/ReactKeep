@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/keepreact/static/css/main.56741327.css",
+    "main.js": "/keepreact/static/js/main.de946914.js",
+    "static/js/787.ae683ffa.chunk.js": "/keepreact/static/js/787.ae683ffa.chunk.js",
+    "index.html": "/keepreact/index.html",
+    "main.56741327.css.map": "/keepreact/static/css/main.56741327.css.map",
+    "main.de946914.js.map": "/keepreact/static/js/main.de946914.js.map",
+    "787.ae683ffa.chunk.js.map": "/keepreact/static/js/787.ae683ffa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56741327.css",
+    "static/js/main.de946914.js"
+  ]
+}
