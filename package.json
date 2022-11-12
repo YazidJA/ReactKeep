@@ -1,7 +1,7 @@
 {
   "name": "keepreact",
   "version": "0.1.0",
-  "homepage": "https://YazidJA.github.io/keepreact",
+  "homepage": "https://YazidJA.github.io/ReactKeep",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.4",
