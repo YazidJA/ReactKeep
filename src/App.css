@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap");
+
 * {
   padding: 0;
   margin: 0;
@@ -5,7 +7,7 @@
 }
 
 body {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Lexend Deca", sans-serif;
   background: white;
   background-image: url("https://www.transparenttextures.com/patterns/brushed-alum.png");
   position: relative;
@@ -26,7 +28,6 @@ header {
 
 header h1 {
   color: #fff;
-  font-family: "McLaren", cursive;
   font-weight: 200;
 }
 
@@ -56,7 +57,7 @@ footer {
 }
 
 .note p {
-  font-size: 1.1em;
+  font-weight: 100;
   margin-bottom: 10px;
   white-space: pre-wrap;
   word-wrap: break-word;
